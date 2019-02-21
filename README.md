@@ -2,7 +2,7 @@ Blog Post App created by tutorial lesson from [Modern React with Redux [2019 Upd
 
 ### Technologies
 Javascript <br>
-React/Redux
+React
 
 ### Features
 lodash Library <br>
